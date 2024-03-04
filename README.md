@@ -44,6 +44,9 @@ Environment that can load different models to run and utilize stable diffusion a
 [Patreon](https://www.patreon.com/dotsimulate)
 
 [Youtube channel](https://www.youtube.com/channel/UC23LFH5xg0EEmdhsLtnV7kQ)
+
+## [koLab workshop here](https://www.youtube.com/watch?v=jJfhOvHSDtc&ab_channel=DigitalesKoproduktionslabor) 
+
 ##
 ## Touchdesigner
 [official webpage](https://derivative.ca/)
